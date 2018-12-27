@@ -11,6 +11,7 @@ A list of awesome bitcoin payment processors and stories from merchants using th
 - [Coinbase Commerce](https://commerce.coinbase.com/)
 - [CoinGate](https://coingate.com/)
 - [CoinPayments](https://www.coinpayments.net/)
+- [CryptoWoo](https://www.cryptowoo.com/) - payment processor for WooCommerce, no middleman fees, no full node required.
 - [GloBee](https://globee.com/) - allows you to keep a portion of your revenue in Bitcoin or Monero and convert the rest into fiat.
 - [PayBear.io](https://www.paybear.io/)
 
@@ -18,6 +19,7 @@ A list of awesome bitcoin payment processors and stories from merchants using th
 
 - [CheapAir: Update on Our Search for a New Bitcoin Payment Processor](https://www.cheapair.com/blog/update-on-our-search-for-a-new-bitcoin-payment-processor/)
 - [Coinigy Ends BitPay Support](https://insights.coinigy.com/coinigy-deprecates-bitpay-support/)
+- [Keys4Coins: Seamless integration of cryptocurrency payments in WooCommerce](https://www.keys4coins.com/cryptowoo-testimonial/)
 
 ## License
 
