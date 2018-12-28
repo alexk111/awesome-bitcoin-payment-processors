@@ -14,6 +14,7 @@ A list of awesome bitcoin payment processors and stories from merchants using th
 - [CryptoWoo](https://www.cryptowoo.com/) - payment processor for WooCommerce, no middleman fees, no full node required.
 - [GloBee](https://globee.com/) - allows you to keep a portion of your revenue in Bitcoin or Monero and convert the rest into fiat.
 - [PayBear.io](https://www.paybear.io/)
+- [OpenNode](https://www.opennode.co/)
 
 ## Merchant Stories
 
