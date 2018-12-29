@@ -16,7 +16,7 @@ A list of awesome bitcoin payment processors and stories from merchants using th
 - [CryptoWoo](https://www.cryptowoo.com/) - payment processor for WooCommerce, no middleman fees, no full node required.
 - [GloBee](https://globee.com/) - allows you to keep a portion of your revenue in Bitcoin or Monero and convert the rest into fiat.
 - [OpenNode](https://www.opennode.co/)
-- [PayBear.io](https://www.paybear.io/)
+- [PayBear](https://www.paybear.io/)
 - [SpectroCoin](https://spectrocoin.com/en/accept-bitcoin-payments.html)
 - [Strike](https://strike.acinq.co/) - stripe®-like API, handles Lightning payments, and sends aggregated Bitcoin transactions in your wallet.
 
