@@ -18,6 +18,7 @@ A list of awesome bitcoin payment processors and stories from merchants using th
 
 ## Merchant Stories
 
+- [BTCPay Server] [Blockstream: We're now accepting on-chain #Bitcoin payments](https://www.facebook.com/1052484058287964)
 - [BTCPay Server] [CheapAir: Update on Our Search for a New Bitcoin Payment Processor](https://www.cheapair.com/blog/update-on-our-search-for-a-new-bitcoin-payment-processor/)
 - [BTCPay Server] [Cryptoversity: ORIGINS, A Dramatic Story](https://youtu.be/S0difABxO3g)
 - [BTCPay Server] [Gab Says Bitcoin is The Clear Solution as ‘Free Speech Money’](https://bitcoinist.com/free-speech-money-gab-bitcoin/)
