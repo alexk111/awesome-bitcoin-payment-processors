@@ -8,6 +8,7 @@ A list of awesome bitcoin payment processors and stories from merchants using th
 ## Payment Processors
 
 - [BTCPay Server](https://github.com/btcpayserver/btcpayserver) - free and open-source cryptocurrency payment processor which allows you to receive payments in Bitcoin and altcoins directly, with no fees, transaction cost or a middleman.
+- [Blockonomics](https://www.blockonomics.co/merchants)
 - [Coinbase Commerce](https://commerce.coinbase.com/)
 - [CoinGate](https://coingate.com/)
 - [CoinPayments](https://www.coinpayments.net/)
