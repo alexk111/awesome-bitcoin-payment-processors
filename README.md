@@ -10,12 +10,14 @@ A list of awesome bitcoin payment processors and stories from merchants using th
 - [BTCPay Server](https://github.com/btcpayserver/btcpayserver) - free and open-source cryptocurrency payment processor which allows you to receive payments in Bitcoin and altcoins directly, with no fees, transaction cost or a middleman.
 - [Blockonomics](https://www.blockonomics.co/merchants)
 - [Coinbase Commerce](https://commerce.coinbase.com/)
-- [CoinGate](https://coingate.com/)
+- [CoinGate](https://coingate.com/accept-bitcoin)
 - [CoinPayments](https://www.coinpayments.net/)
+- [CoinsBank](https://coinsbank.com/merchant)
 - [CryptoWoo](https://www.cryptowoo.com/) - payment processor for WooCommerce, no middleman fees, no full node required.
 - [GloBee](https://globee.com/) - allows you to keep a portion of your revenue in Bitcoin or Monero and convert the rest into fiat.
-- [PayBear.io](https://www.paybear.io/)
 - [OpenNode](https://www.opennode.co/)
+- [PayBear.io](https://www.paybear.io/)
+- [Strike](https://strike.acinq.co/) - stripe®-like API, handles Lightning payments, and sends aggregated Bitcoin transactions in your wallet.
 
 ## Merchant Stories
 
