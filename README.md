@@ -21,6 +21,7 @@ A list of awesome bitcoin payment processors and stories from merchants using th
 - [CheapAir: Update on Our Search for a New Bitcoin Payment Processor](https://www.cheapair.com/blog/update-on-our-search-for-a-new-bitcoin-payment-processor/)
 - [Coinigy Ends BitPay Support](https://insights.coinigy.com/coinigy-deprecates-bitpay-support/)
 - [Cryptoversity: ORIGINS, A Dramatic Story](https://youtu.be/S0difABxO3g)
+- [Gab Says Bitcoin is The Clear Solution as ‘Free Speech Money’](https://bitcoinist.com/free-speech-money-gab-bitcoin/)
 - [Keys4Coins: Seamless integration of cryptocurrency payments in WooCommerce](https://www.keys4coins.com/cryptowoo-testimonial/)
 
 ## License
