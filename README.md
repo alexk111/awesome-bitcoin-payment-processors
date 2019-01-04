@@ -16,6 +16,7 @@ A list of awesome bitcoin payment processors and stories from merchants using th
 Self-Hosted payment processors run on your server and provide you with a full control over the entire payment process and funds. There's no third-party involvement - that significantly increases the censorship-resistance, privacy, and security for you and your customers. 
 
 - [BTCPay Server](https://btcpayserver.org/) - free and open-source cryptocurrency payment processor which allows you to receive payments in Bitcoin and altcoins directly, with no fees, transaction cost or a middleman.
+- [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - open-source Bitcoin payment gateway
 - [CryptoWoo](https://www.cryptowoo.com/) - payment processor for WooCommerce, no middleman fees, no full node required.
 
 ## Hosted Payment Processors
