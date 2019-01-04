@@ -1,19 +1,31 @@
 # Awesome Bitcoin Payment Processors [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A list of awesome bitcoin payment processors and stories from merchants using them. Why are they awesome? Because they process native bitcoin transactions and don't require wallets to use the [controversial payment protocol](https://blog.samouraiwallet.com/post/169222582782/bitpay-qr-codes-are-no-longer-valid-important). More supported wallets = more customers!
+A list of awesome bitcoin payment processors and stories from merchants using them. Why are they awesome?
 
-- [Payment Processors](#payment-processors)
+1. They are either protected against financial censorship or they don't practice it.
+2. They process native bitcoin transactions and don't require wallets to use the [controversial payment protocol](https://blog.samouraiwallet.com/post/169222582782/bitpay-qr-codes-are-no-longer-valid-important).
+
+## Table of Contents
+
+- [Self-Hosted Payment Processors](#self-hosted-payment-processors)
+- [Hosted Payment Processors](#hosted-payment-processors)
 - [Merchant Stories](#merchant-stories)
 
-## Payment Processors
+## Self-Hosted Payment Processors
 
-- [BTCPay Server](https://github.com/btcpayserver/btcpayserver) - free and open-source cryptocurrency payment processor which allows you to receive payments in Bitcoin and altcoins directly, with no fees, transaction cost or a middleman.
+Self-Hosted payment processors run on your server and provide you with a full control over the entire payment process and funds. There's no third-party involvement - that significantly increases the censorship-resistance, privacy, and security for you and your customers. 
+
+- [BTCPay Server](https://btcpayserver.org/) - free and open-source cryptocurrency payment processor which allows you to receive payments in Bitcoin and altcoins directly, with no fees, transaction cost or a middleman.
+- [CryptoWoo](https://www.cryptowoo.com/) - payment processor for WooCommerce, no middleman fees, no full node required.
+
+## Hosted Payment Processors
+
+Hosted payment processors run on someone else's server. That reduces the amount of control you have over the payment process, and even funds, if they use their wallets for receiving payments.
+
 - [Blockonomics](https://www.blockonomics.co/merchants)
-- [Coinbase Commerce](https://commerce.coinbase.com/)
 - [CoinGate](https://coingate.com/accept-bitcoin)
 - [CoinPayments](https://www.coinpayments.net/)
 - [CoinsBank](https://coinsbank.com/merchant)
-- [CryptoWoo](https://www.cryptowoo.com/) - payment processor for WooCommerce, no middleman fees, no full node required.
 - [GloBee](https://globee.com/) - allows you to keep a portion of your revenue in Bitcoin or Monero and convert the rest into fiat.
 - [OpenNode](https://www.opennode.co/)
 - [PayBear](https://www.paybear.io/)
@@ -27,7 +39,6 @@ A list of awesome bitcoin payment processors and stories from merchants using th
 - [BTCPay Server] [Cryptoversity: ORIGINS, A Dramatic Story](https://youtu.be/S0difABxO3g)
 - [BTCPay Server] [Gab Says Bitcoin is The Clear Solution as ‘Free Speech Money’](https://bitcoinist.com/free-speech-money-gab-bitcoin/)
 - [Blockonomics] [How a Small Business in the Arctic Circle is Selling to the World](https://hackernoon.com/how-a-small-business-in-the-arctic-circle-is-selling-to-the-world-8dbe8d7f9fc4)
-- [Coinbase Commerce] [Coinigy Ends BitPay Support](https://insights.coinigy.com/coinigy-deprecates-bitpay-support/)
 - [CryptoWoo] [Keys4Coins: Seamless integration of cryptocurrency payments in WooCommerce](https://www.keys4coins.com/cryptowoo-testimonial/)
 
 ## How to Share
