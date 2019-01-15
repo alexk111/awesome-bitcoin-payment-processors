@@ -21,7 +21,7 @@ Self-Hosted payment processors run on your server and provide you with a full co
 
 ## Hosted Payment Processors
 
-Hosted payment processors run on someone else's server. That reduces the amount of control you have over the payment process, and even funds, if they use their wallets for receiving payments.
+Hosted payment processors run on someone else's server. This simplifies the initial setup process, but reduces the amount of control you have over the payment process and even funds, if they use their wallets for receiving payments.
 
 - [Blockonomics](https://www.blockonomics.co/merchants)
 - [CoinGate](https://coingate.com/accept-bitcoin)
