@@ -23,6 +23,7 @@ Self-Hosted payment processors run on your server and provide you with a full co
 
 Hosted payment processors run on someone else's server. This simplifies the initial setup process, but reduces the amount of control you have over the payment process and even funds, if they use their wallets for receiving payments.
 
+- [BitcoinPay](https://www.bitcoinpay.com/en/)
 - [Blockonomics](https://www.blockonomics.co/merchants)
 - [CoinGate](https://coingate.com/accept-bitcoin)
 - [CoinPayments](https://www.coinpayments.net/)
@@ -39,6 +40,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 - [BTCPay Server] [CheapAir: Update on Our Search for a New Bitcoin Payment Processor](https://www.cheapair.com/blog/update-on-our-search-for-a-new-bitcoin-payment-processor/)
 - [BTCPay Server] [Cryptoversity: ORIGINS, A Dramatic Story](https://youtu.be/S0difABxO3g)
 - [BTCPay Server] [Gab Says Bitcoin is The Clear Solution as ‘Free Speech Money’](https://bitcoinist.com/free-speech-money-gab-bitcoin/)
+- [BitcoinPay] [Trezor: Ever wondered how do we process your TREZOR order?](https://blog.trezor.io/trezor-shipping-process-delivery-dispatch-explained-order-logistics-58e45e25ee8)
 - [Blockonomics] [How a Small Business in the Arctic Circle is Selling to the World](https://hackernoon.com/how-a-small-business-in-the-arctic-circle-is-selling-to-the-world-8dbe8d7f9fc4)
 - [CryptoWoo] [Keys4Coins: Seamless integration of cryptocurrency payments in WooCommerce](https://www.keys4coins.com/cryptowoo-testimonial/)
 
