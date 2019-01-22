@@ -15,24 +15,26 @@ A list of awesome bitcoin payment processors and stories from merchants using th
 
 Self-Hosted payment processors run on your server and provide you with a full control over the entire payment process and funds. There's no third-party involvement - that significantly increases the censorship-resistance, privacy, and security for you and your customers. 
 
-- [BTCPay Server](https://btcpayserver.org/) - free and open-source cryptocurrency payment processor which allows you to receive payments in Bitcoin and altcoins directly, with no fees, transaction cost or a middleman.
-- [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - open-source Bitcoin payment gateway
-- [CryptoWoo](https://www.cryptowoo.com/) - payment processor for WooCommerce, no middleman fees, no full node required.
+| Processor | Fees | Lightning | Notes |
+| --------- |:----:|:-----------------:| ------------- |
+| [BTCPay Server](https://btcpayserver.org/) | No fees | YES | |
+| [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) | No fees | no | |
+| [CryptoWoo](https://www.cryptowoo.com/) | $34 - $99 per license | no | For WooCommerce only |
 
 ## Hosted Payment Processors
 
 Hosted payment processors run on someone else's server. This simplifies the initial setup process, but reduces the amount of control you have over the payment process and even funds, if they use their wallets for receiving payments.
 
-- [BitcoinPay](https://www.bitcoinpay.com/en/)
-- [Blockonomics](https://www.blockonomics.co/merchants)
-- [CoinGate](https://coingate.com/accept-bitcoin)
-- [CoinPayments](https://www.coinpayments.net/)
-- [CoinsBank](https://coinsbank.com/merchant)
-- [GloBee](https://globee.com/) - allows you to keep a portion of your revenue in Bitcoin or Monero and convert the rest into fiat.
-- [OpenNode](https://www.opennode.co/)
-- [PayBear](https://www.paybear.io/)
-- [SpectroCoin](https://spectrocoin.com/en/accept-bitcoin-payments.html)
-- [Strike](https://strike.acinq.co/) - stripe®-like API, handles Lightning payments, and sends aggregated Bitcoin transactions in your wallet.
+| Processor | Fees | Lightning | Notes |
+| --------- |:----:|:-----------------:| ------------- |
+| [BitcoinPay](https://www.bitcoinpay.com/en/) | 0.8% | no | |
+| [Blockonomics](https://www.blockonomics.co/merchants) | 1% | no | |
+| [CoinGate](https://coingate.com/accept-bitcoin) | 1% | YES | |
+| [CoinPayments](https://www.coinpayments.net/) | 0.5% | YES | |
+| [GloBee](https://globee.com/) | 1% | YES | |
+| [OpenNode](https://www.opennode.co/) | 1% | YES | |
+| [PayBear](https://www.paybear.io/) | Blockchain fee | no | |
+| [Strike](https://strike.acinq.co/) | 1% | YES | Lightning payments only |
 
 ## Merchant Stories
 
