@@ -15,26 +15,26 @@ A list of awesome bitcoin payment processors and stories from merchants using th
 
 Self-Hosted payment processors run on your server and provide you with a full control over the entire payment process and funds. There's no third-party involvement - that significantly increases the censorship-resistance, privacy, and security for you and your customers. 
 
-| Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Notes |
-| --------- |:----:|:---------:|:-----------------------:|:------------------:| ----- |
-| [BTCPay Server](https://btcpayserver.org/) | No fees | YES | YES | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | |
-| [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) | No fees | no | YES | no | |
-| [CryptoWoo](https://www.cryptowoo.com/) | $34 - $99 per license | no | YES | no | For WooCommerce only |
+| Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
+| --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
+| [BTCPay Server](https://btcpayserver.org/) | No fees | YES | YES | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | 2 GB RAM, 80 GB Storage, Docker |
+| [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) | No fees | no | YES | no | ? |
+| [CryptoWoo](https://www.cryptowoo.com/) | $34 - $99 per license | no | YES | no | PHP 5.6+, Wordpress 4.3+, WooCommerce 3.0+ |
 
 ## Hosted Payment Processors
 
 Hosted payment processors run on someone else's server. This simplifies the initial setup process, but reduces the amount of control you have over the payment process and even funds, if they use their wallets for receiving payments.
 
-| Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Notes |
-| --------- |:----:|:---------:|:-----------------------:|:------------------:| ----- |
-| [BitcoinPay](https://www.bitcoinpay.com/en/) | 0.8% | no | no | YES | |
-| [Blockonomics](https://www.blockonomics.co/merchants) | 1% | no | YES | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | |
-| [CoinGate](https://coingate.com/accept-bitcoin) | 1% | YES | no | YES | |
-| [CoinPayments](https://www.coinpayments.net/) | 0.5% | YES | no | YES | |
-| [GloBee](https://globee.com/) | 1% or ($30 - $300)/mo | YES | no | Via [Luno](https://www.luno.com) and [Uphold](https://uphold.com/) | |
-| [OpenNode](https://www.opennode.co/) | 1% | YES | no | YES | |
-| [PayBear](https://www.paybear.io/) | Blockchain fee | no | no | no | |
-| [Strike](https://strike.acinq.co/) | 1% | YES | no | no | Lightning payments only |
+| Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
+| --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
+| [BitcoinPay](https://www.bitcoinpay.com/en/) | 0.8% | no | no | YES | Information about business / website. May require certain documents. |
+| [Blockonomics](https://www.blockonomics.co/merchants) | 1% | no | YES | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | no |
+| [CoinGate](https://coingate.com/accept-bitcoin) | 1% | YES | no | YES | Require certain documents. |
+| [CoinPayments](https://www.coinpayments.net/) | 0.5% | YES | no | YES | On withdrawal may require a number of forms of identification and will require settlement of any outstanding amounts. |
+| [GloBee](https://globee.com/) | 1% or ($30 - $300)/mo | YES | no | Via [Luno](https://www.luno.com) and [Uphold](https://uphold.com/) | Information about business / website. May require certain documents. |
+| [OpenNode](https://www.opennode.co/) | 1% | YES | no | YES | May require to verify identity. Also may require to verify details or sources of funds regarding received payments. |
+| [PayBear](https://www.paybear.io/) | Blockchain fee | no | no | no | no |
+| [Strike](https://strike.acinq.co/) | 1% | Only | no | no | For companies, the name of a company and a physical address. |
 
 ## Merchant Stories
 
