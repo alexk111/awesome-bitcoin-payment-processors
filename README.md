@@ -15,26 +15,26 @@ A list of awesome bitcoin payment processors and stories from merchants using th
 
 Self-Hosted payment processors run on your server and provide you with a full control over the entire payment process and funds. There's no third-party involvement - that significantly increases the censorship-resistance, privacy, and security for you and your customers. 
 
-| Processor | Fees | Lightning | Notes |
-| --------- |:----:|:-----------------:| ------------- |
-| [BTCPay Server](https://btcpayserver.org/) | No fees | YES | |
-| [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) | No fees | no | |
-| [CryptoWoo](https://www.cryptowoo.com/) | $34 - $99 per license | no | For WooCommerce only |
+| Processor | Fees | Lightning | Conversion to Fiat | Notes |
+| --------- |:----:|:---------:|:------------------:| ----- |
+| [BTCPay Server](https://btcpayserver.org/) | No fees | YES | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | |
+| [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) | No fees | no | no | |
+| [CryptoWoo](https://www.cryptowoo.com/) | $34 - $99 per license | no | no | For WooCommerce only |
 
 ## Hosted Payment Processors
 
 Hosted payment processors run on someone else's server. This simplifies the initial setup process, but reduces the amount of control you have over the payment process and even funds, if they use their wallets for receiving payments.
 
-| Processor | Fees | Lightning | Notes |
-| --------- |:----:|:-----------------:| ------------- |
-| [BitcoinPay](https://www.bitcoinpay.com/en/) | 0.8% | no | |
-| [Blockonomics](https://www.blockonomics.co/merchants) | 1% | no | |
-| [CoinGate](https://coingate.com/accept-bitcoin) | 1% | YES | |
-| [CoinPayments](https://www.coinpayments.net/) | 0.5% | YES | |
-| [GloBee](https://globee.com/) | 1% | YES | |
-| [OpenNode](https://www.opennode.co/) | 1% | YES | |
-| [PayBear](https://www.paybear.io/) | Blockchain fee | no | |
-| [Strike](https://strike.acinq.co/) | 1% | YES | Lightning payments only |
+| Processor | Fees | Lightning | Conversion to Fiat | Notes |
+| --------- |:----:|:---------:|:------------------:| ----- |
+| [BitcoinPay](https://www.bitcoinpay.com/en/) | 0.8% | no | YES | |
+| [Blockonomics](https://www.blockonomics.co/merchants) | 1% | no | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | |
+| [CoinGate](https://coingate.com/accept-bitcoin) | 1% | YES | YES | |
+| [CoinPayments](https://www.coinpayments.net/) | 0.5% | YES | YES | |
+| [GloBee](https://globee.com/) | 1% | YES | YES | |
+| [OpenNode](https://www.opennode.co/) | 1% | YES | YES | |
+| [PayBear](https://www.paybear.io/) | Blockchain fee | no | no | |
+| [Strike](https://strike.acinq.co/) | 1% | YES | no | Lightning payments only |
 
 ## Merchant Stories
 
