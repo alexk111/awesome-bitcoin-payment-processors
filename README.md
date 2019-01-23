@@ -31,7 +31,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 | [Blockonomics](https://www.blockonomics.co/merchants) | 1% | no | YES | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | |
 | [CoinGate](https://coingate.com/accept-bitcoin) | 1% | YES | no | YES | |
 | [CoinPayments](https://www.coinpayments.net/) | 0.5% | YES | no | YES | |
-| [GloBee](https://globee.com/) | 1% | YES | no | YES | |
+| [GloBee](https://globee.com/) | 1% | YES | no | Via [Luno](https://www.luno.com) and [Uphold](https://uphold.com/) | |
 | [OpenNode](https://www.opennode.co/) | 1% | YES | no | YES | |
 | [PayBear](https://www.paybear.io/) | Blockchain fee | no | no | no | |
 | [Strike](https://strike.acinq.co/) | 1% | YES | no | no | Lightning payments only |
