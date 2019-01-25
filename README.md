@@ -60,6 +60,8 @@ Please read [CONTRIBUTING](https://github.com/alexk111/awesome-bitcoin-payment-p
 
 BTC: 3DJGzZnhHzNA7sKday7hjSWG6uveuG2hUA
 
+BTC via Lightning: [tippin.me/@alex_kaul](https://tippin.me/@alex_kaul)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
