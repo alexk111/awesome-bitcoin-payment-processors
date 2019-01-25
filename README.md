@@ -5,7 +5,7 @@ A list of awesome bitcoin payment processors and stories from merchants using th
 1. They are either protected against financial censorship or they don't practice it.
 2. They process native bitcoin transactions and don't require wallets to use the [controversial payment protocol](https://blog.samouraiwallet.com/post/169222582782/bitpay-qr-codes-are-no-longer-valid-important).
 
-## Table of Contents
+## Contents
 
 - [Self-Hosted Payment Processors](#self-hosted-payment-processors)
 - [Hosted Payment Processors](#hosted-payment-processors)
