@@ -36,6 +36,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 | [OpenNode](https://www.opennode.co/) | 1% | YES | no | YES | May require to verify identity. Also may require to verify details or sources of funds regarding received payments. |
 | [PayBear](https://www.paybear.io/) | Blockchain fee | no | no | no | no |
 | [Strike](https://strike.acinq.co/) | 1% | Only | no | no | For companies, the name of a company and a physical address. |
+| [Payscrypt](https://payscrypt.com/) | No fees | no | YES | no | no |
 
 ## Merchant Stories
 
