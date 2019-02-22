@@ -1,9 +1,9 @@
 # Awesome Bitcoin Payment Processors [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A list of awesome bitcoin payment processors and stories from merchants using them. Why are they awesome?
+A list of awesome Bitcoin payment processors and stories from merchants using them. Why are they awesome?
 
 1. They are either protected against financial censorship or they don't practice it.
-2. They process native bitcoin transactions and don't require wallets to use the [controversial payment protocol](https://blog.samouraiwallet.com/post/169222582782/bitpay-qr-codes-are-no-longer-valid-important).
+2. They process native Bitcoin transactions and don't require wallets to use the [controversial payment protocol](https://blog.samouraiwallet.com/post/169222582782/bitpay-qr-codes-are-no-longer-valid-important).
 3. They don't [block payments by IPs/locations](https://twitter.com/alex_kaul/status/1090211252331208705).
 
 ## Contents
@@ -18,9 +18,9 @@ Self-Hosted payment processors run on your server and provide you with a full co
 
 | Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
-| [BTCPay Server](https://btcpayserver.org/) | No fees | YES | YES | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | 2 GB RAM, 80 GB Storage, Docker |
-| [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) | No fees | no | YES | no | ? |
-| [CryptoWoo](https://www.cryptowoo.com/) | $34 - $99 per year | no | YES | no | PHP 5.6+, Wordpress 4.3+, WooCommerce 3.0+ |
+| [BTCPay Server](https://btcpayserver.org/) | No fees | Yes | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | 2 GB RAM, 80 GB Storage, Docker |
+| [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) | No fees | No | Yes | No | ? |
+| [CryptoWoo](https://www.cryptowoo.com/) | $34 - $99 per year | No | Yes | No | PHP 5.6+, Wordpress 4.3+, WooCommerce 3.0+ |
 
 ## Hosted Payment Processors
 
@@ -28,15 +28,15 @@ Hosted payment processors run on someone else's server. This simplifies the init
 
 | Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
-| [BitcoinPay](https://www.bitcoinpay.com/en/) | 0.8% | no | no | YES | Information about business / website. May require certain documents. |
-| [Blockonomics](https://www.blockonomics.co/merchants) | 1% | no | YES | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | no |
-| [CoinGate](https://coingate.com/accept-bitcoin) | 1% | YES | no | YES | Require certain documents. |
-| [CoinPayments](https://www.coinpayments.net/) | 0.5% | YES | no | YES | On withdrawal may require a number of forms of identification and will require settlement of any outstanding amounts. |
-| [GloBee](https://globee.com/) | 1% or ($30 - $300)/mo | YES | no | Via [Luno](https://www.luno.com) and [Uphold](https://uphold.com/) | Information about business / website. May require certain documents. |
-| [OpenNode](https://www.opennode.co/) | 1% | YES | no | YES | May require to verify identity. Also may require to verify details or sources of funds regarding received payments. |
-| [PayBear](https://www.paybear.io/) | Only blockchain fee during beta | no | no | no | Suspend accounts for a review after reaching a max transaction limit |
-| [Strike](https://strike.acinq.co/) | 1% | Only | no | no | For companies, the name of a company and a physical address. |
-| [Payscrypt](https://payscrypt.com/) | No fees | no | YES | no | no |
+| [BitcoinPay](https://www.bitcoinpay.com/en/) | 0.8% | No | No | Yes | Information about business / website. May require certain documents. |
+| [Blockonomics](https://www.blockonomics.co/merchants) | 1% | No | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | No |
+| [CoinGate](https://coingate.com/accept-bitcoin) | 1% | Yes | No | Yes | Require certain documents. |
+| [CoinPayments](https://www.coinpayments.net/) | 0.5% | Yes | No | Yes | On withdrawal may require a number of forms of identification and will require settlement of any outstanding amounts. |
+| [GloBee](https://globee.com/) | 1% or ($30 - $300)/mo | Yes | No | Via [Luno](https://www.luno.com) and [Uphold](https://uphold.com/) | Information about business / website. May require certain documents. |
+| [OpenNode](https://www.opennode.co/) | 1% | Yes | No | Yes | May require to verify identity. Also may require to verify details or sources of funds regarding received payments. |
+| [PayBear](https://www.paybear.io/) | Only blockchain fee during beta | No | No | No | Suspend accounts for a review after reaching a max transaction limit |
+| [Strike](https://strike.acinq.co/) | 1% | Only | No | No | For companies, the name of a company and a physical address. |
+| [Payscrypt](https://payscrypt.com/) | No fees | No | Yes | No | No |
 
 ## Merchant Stories
 
