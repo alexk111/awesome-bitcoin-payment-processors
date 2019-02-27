@@ -34,7 +34,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 | [CoinPayments](https://www.coinpayments.net/) | 0.5% | Yes | No | Yes | On withdrawal may require a number of forms of identification and will require settlement of any outstanding amounts. |
 | [GloBee](https://globee.com/) | 1% or ($30 - $300)/mo | Yes | No | Via [Luno](https://www.luno.com) and [Uphold](https://uphold.com/) | Information about business / website. May require certain documents. |
 | [OpenNode](https://www.opennode.co/) | 1% | Yes | No | Yes | May require to verify identity. Also may require to verify details or sources of funds regarding received payments. |
-| [PayBear](https://www.paybear.io/) | Only blockchain fee during beta | No | No | No | Suspend accounts for a review after reaching a max transaction limit |
+| [Savvy](https://www.savvy.io/) | No fees | No | Yes | No | For accepting payments above $2000, for ICO and other types of fundraising, pre approval required. |
 | [Strike](https://strike.acinq.co/) | 1% | Only | No | No | For companies, the name of a company and a physical address. |
 | [Payscrypt](https://payscrypt.com/) | No fees | No | Yes | No | No |
 
