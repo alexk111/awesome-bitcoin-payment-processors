@@ -60,9 +60,7 @@ Please read [CONTRIBUTING](https://github.com/alexk111/awesome-bitcoin-payment-p
 
 ## 💝 Donations are always appreciated!
 
-BTC: 3DJGzZnhHzNA7sKday7hjSWG6uveuG2hUA
-
-BTC via Lightning: [tippin.me/@alex_kaul](https://tippin.me/@alex_kaul)
+Donate Bitcoin: https://donate.alexkaul.com/bitcoin-payment-processors
 
 ## License
 
