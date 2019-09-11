@@ -20,6 +20,7 @@ Self-Hosted payment processors run on your server and provide you with a full co
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
 | [BTCPay Server](https://btcpayserver.org/) | No fees | Yes | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | 2 GB RAM, 80 GB Storage, Docker |
 | [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) | No fees | No | Yes | No | ? |
+| [One Time Address](https://github.com/alexk111/One-Time-Address) | No fees | No | Yes | No | NodeJS |
 | [CryptoWoo](https://www.cryptowoo.com/) | $34 - $99 per year | No | Yes | No | PHP 5.6+, Wordpress 4.3+, WooCommerce 3.0+ |
 
 ## Hosted Payment Processors
