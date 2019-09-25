@@ -38,6 +38,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 | [Savvy](https://www.savvy.io/) | No fees (temporary) | No | Yes | No | For accepting payments above $2000, for ICO and other types of fundraising, pre approval required. |
 | [Strike](https://strike.acinq.co/) | 1% | Only | No | No | For companies, the name of a company and a physical address. |
 | [Payscrypt](https://payscrypt.com/) | No fees | No | Yes | No | No |
+| [AtomicPay](https://atomicpay.io/) | 0.7%+ | No | Yes | No | KYC required for businesses. |
 
 ## Merchant Stories
 
