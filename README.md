@@ -29,6 +29,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 
 | Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
+| [Coinremitter](https://coinremitter.com/) | 0.23% | No | No | No | No KYC. |
 | [BitcoinPay](https://www.bitcoinpay.com/en/) | 0.8% | No | No | Yes | Information about business / website. May require certain documents. |
 | [Blockonomics](https://www.blockonomics.co/merchants) | 1% | No | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | No |
 | [CoinGate](https://coingate.com/accept-bitcoin) | 1% | Yes | No | Yes | Require certain documents. |
