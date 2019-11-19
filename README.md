@@ -18,6 +18,7 @@ Self-Hosted payment processors run on your server and provide you with a full co
 
 | Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
+| [Bitcoin Opencart plugin](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34039) | fix | No | Yes | via forwarding | OpenCart |
 | [BTCPay Server](https://btcpayserver.org/) | No fees | Yes | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | 2 GB RAM, 80 GB Storage, Docker |
 | [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) | No fees | No | Yes | No | ? |
 | [One Time Address](https://github.com/alexk111/One-Time-Address) | No fees | No | Yes | No | NodeJS |
@@ -29,6 +30,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 
 | Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
+| [Apirone](https://www.apirone.com) | Fix 0.0002 BTC | No | Yes | Via [Payment Forwarding](https://apirone.com/docs/crypto-forwarding-api) | No |
 | [BitcoinPay](https://www.bitcoinpay.com/en/) | 0.8% | No | No | Yes | Information about business / website. May require certain documents. |
 | [Blockonomics](https://www.blockonomics.co/merchants) | 1% | No | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | No |
 | [CoinGate](https://coingate.com/accept-bitcoin) | 1% | Yes | No | Yes | Require certain documents. |
