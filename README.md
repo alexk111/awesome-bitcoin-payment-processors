@@ -41,6 +41,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 | [Payscrypt](https://payscrypt.com/) | No fees | No | Yes | No | No |
 | [AtomicPay](https://atomicpay.io/) | 0.7%+ | No | Yes | No | KYC required for businesses. |
 | [Coinremitter](https://coinremitter.com/) | 0.23% | No | No | No | No |
+| [NOWPayments](https://nowpayments.io/) | up to 0.5% | No | Yes | No | No |
 
 ## Merchant Stories
 
