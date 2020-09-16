@@ -29,7 +29,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 
 | Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
-| [BitcoinPay](https://www.bitcoinpay.com/en/) | 0.8% | No | No | Yes | Information about business / website. May require certain documents. |
+| [Confirmo](https://confirmo.net/) | 0.8% | No | No | Yes | Information about business / website. May require certain documents. |
 | [Blockonomics](https://www.blockonomics.co/merchants) | 1% | No | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | No |
 | [CoinGate](https://coingate.com/accept-bitcoin) | 1% | Yes | No | Yes | Require certain documents. |
 | [CoinPayments](https://www.coinpayments.net/) | 0.5% | Yes | No | Yes | On withdrawal may require a number of forms of identification and will require settlement of any outstanding amounts. |
@@ -45,7 +45,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 - [BTCPay Server] [CheapAir: Update on Our Search for a New Bitcoin Payment Processor](https://www.cheapair.com/blog/update-on-our-search-for-a-new-bitcoin-payment-processor/)
 - [BTCPay Server] [Cryptoversity: ORIGINS, A Dramatic Story](https://youtu.be/S0difABxO3g)
 - [BTCPay Server] [Gab Says Bitcoin is The Clear Solution as ‘Free Speech Money’](https://bitcoinist.com/free-speech-money-gab-bitcoin/)
-- [BitcoinPay] [Trezor: Ever wondered how do we process your TREZOR order?](https://blog.trezor.io/trezor-shipping-process-delivery-dispatch-explained-order-logistics-58e45e25ee8)
+- [Confirmo (ex-BitcoinPay)] [Trezor: Ever wondered how do we process your TREZOR order?](https://blog.trezor.io/trezor-shipping-process-delivery-dispatch-explained-order-logistics-58e45e25ee8)
 - [Blockonomics] [How a Small Business in the Arctic Circle is Selling to the World](https://hackernoon.com/how-a-small-business-in-the-arctic-circle-is-selling-to-the-world-8dbe8d7f9fc4)
 - [CryptoWoo] [Keys4Coins: Seamless integration of cryptocurrency payments in WooCommerce](https://www.keys4coins.com/cryptowoo-testimonial/)
 
