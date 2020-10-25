@@ -22,6 +22,7 @@ Self-Hosted payment processors run on your server and provide you with a full co
 | [One Time Address](https://github.com/alexk111/One-Time-Address) | No fees | No | Yes | No | NodeJS |
 | [CryptoWoo](https://www.cryptowoo.com/) | $34 - $99 per year | No | Yes | No | PHP 5.6+, Wordpress 4.3+, WooCommerce 3.0+ |
 | [BitcartCC](https://bitcartcc.com) | No fees | Yes | Yes | No | 1 GB RAM, 10 GB Storage, Docker |
+| [LnMe](https://github.com/bumi/lnme) | No fees | Yes | Yes | No | LND node |
 
 ## Hosted Payment Processors
 
