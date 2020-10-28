@@ -39,6 +39,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 | [Strike](https://strike.acinq.co/) | 1% | Only | No | No | For companies, the name of a company and a physical address. |
 | [Payscrypt](https://payscrypt.com/) | No fees | No | Yes | No | No |
 | [Coinremitter](https://coinremitter.com/) | 0.23% | No | No | No | No |
+| [Utrust](https://utrust.com/) | 1% | No | No | Yes | Require certain documents. |
 
 ## Merchant Stories
 
