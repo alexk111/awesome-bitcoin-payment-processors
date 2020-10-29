@@ -1,3 +1,7 @@
+<div align="center">
+<img width="500" src="media/logo.svg" alt="Awesome Bitcoin Payment Processors"/>
+</div>
+
 # Awesome Bitcoin Payment Processors [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A list of awesome Bitcoin payment processors and stories from merchants using them. Why are they awesome?
