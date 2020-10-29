@@ -66,9 +66,20 @@ Please read [CONTRIBUTING](https://github.com/alexk111/awesome-bitcoin-payment-p
 - [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/alexk111/awesome-bitcoin-payment-processors)
 - [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//github.com/alexk111/awesome-bitcoin-payment-processors&title=List%20of%20awesome%20bitcoin%20payment%20processors&summary=&source=)
 
-## 💝 Donations are always appreciated!
+## Backers 💝
 
-Donate Bitcoin: https://donate.alexkaul.com/bitcoin-payment-processors
+[[Become a backer](https://mynode.alexkaul.com/gh-donate)]
+
+[![Backer](https://mynode.alexkaul.com/gh-backer/top/0/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/0/profile)
+[![Backer](https://mynode.alexkaul.com/gh-backer/top/1/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/1/profile)
+[![Backer](https://mynode.alexkaul.com/gh-backer/top/2/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/2/profile)
+[![Backer](https://mynode.alexkaul.com/gh-backer/top/3/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/3/profile)
+[![Backer](https://mynode.alexkaul.com/gh-backer/top/4/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/4/profile)
+[![Backer](https://mynode.alexkaul.com/gh-backer/top/5/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/5/profile)
+[![Backer](https://mynode.alexkaul.com/gh-backer/top/6/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/6/profile)
+[![Backer](https://mynode.alexkaul.com/gh-backer/top/7/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/7/profile)
+[![Backer](https://mynode.alexkaul.com/gh-backer/top/8/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/8/profile)
+[![Backer](https://mynode.alexkaul.com/gh-backer/top/9/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/9/profile)
 
 ## License
 
