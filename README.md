@@ -14,7 +14,10 @@ A list of awesome Bitcoin payment processors and stories from merchants using th
 
 - [Self-Hosted Payment Processors](#self-hosted-payment-processors)
 - [Hosted Payment Processors](#hosted-payment-processors)
+  - [Non-Custodial](#non-custodial)
+  - [Custodial](#custodial)
 - [Merchant Stories](#merchant-stories)
+- [Backers 💝](#backers-)
 
 ## Self-Hosted Payment Processors
 
