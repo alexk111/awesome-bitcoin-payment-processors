@@ -40,7 +40,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 | Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
 | [Blockonomics](https://www.blockonomics.co/merchants) | 1% | No | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | No |
-| [Bittery.io](https://bittery.io/) | 0% | Yes | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) and [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/) | No |
+| [Bittery.io](https://bittery.io/) | No fees | Yes | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) and [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/) | No |
 | [Payscrypt](https://payscrypt.com/) | No fees | No | Yes | No | No |
 
 ### Custodial
@@ -57,6 +57,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 | [Strike](https://strike.acinq.co/) | 1% | Only | No | No | For companies, the name of a company and a physical address. |
 | [Coinremitter](https://coinremitter.com/) | 0.23% | No | No | No | No |
 | [Utrust](https://utrust.com/) | 1% | No | No | Yes | Require certain documents. |
+| [NOWPayments](https://nowpayments.io/) | ≤0.5% | No | No | No | KYC/AML procedure applied to certain clients, wallet addresses and select assets. |
 
 ## Merchant Stories
 
