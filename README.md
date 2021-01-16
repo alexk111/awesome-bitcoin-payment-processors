@@ -83,9 +83,3 @@ Hosted payment processors run on someone else's server. This simplifies the init
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/9/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/9/profile)
 
 [[Donate](https://mynode.alexkaul.com/gh-donate)] Thank you for your support! 🙌
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Alex Kaul](https://github.com/alexk111) has waived all copyright and related or neighboring rights to this work.
