@@ -4,10 +4,12 @@
 
 # Awesome Bitcoin Payment Processors [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A list of awesome Bitcoin payment processors and stories from merchants using them. Why are they awesome?
+A curated list of awesome Bitcoin payment processors enabling merchants, businesses and nonprofits to accept Bitcoin payments.
 
-1. They are either protected against financial censorship or they don't practice it.
-2. They process native Bitcoin transactions and don't require wallets to use the [controversial payment protocol](https://blog.samouraiwallet.com/post/169222582782/bitpay-qr-codes-are-no-longer-valid-important).
+## Why are they awesome?
+
+1. They are either immune to financial censorship or they don't practice it.
+2. They accept Bitcoin via native Bitcoin addresses and don't require wallets to use the [controversial payment protocol](https://blog.samouraiwallet.com/post/169222582782/bitpay-qr-codes-are-no-longer-valid-important).
 3. They don't [block payments by IPs/locations](https://twitter.com/alex_kaul/status/1090211252331208705).
 
 ## Contents
