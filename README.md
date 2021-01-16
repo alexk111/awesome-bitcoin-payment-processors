@@ -71,8 +71,6 @@ Hosted payment processors run on someone else's server. This simplifies the init
 
 ## Backers 💝
 
-[[Become a backer](https://mynode.alexkaul.com/gh-donate)]
-
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/0/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/0/profile)
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/1/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/1/profile)
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/2/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/2/profile)
@@ -84,15 +82,9 @@ Hosted payment processors run on someone else's server. This simplifies the init
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/8/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/8/profile)
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/9/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/9/profile)
 
-## How to Contribute
+[[Donate](https://mynode.alexkaul.com/gh-donate)]
 
-Please read [CONTRIBUTING](https://github.com/alexk111/awesome-bitcoin-payment-processors/blob/master/CONTRIBUTING.md).
-
-## How to Share
-
-- [Share on Twitter](https://twitter.com/home?status=List%20of%20awesome%20bitcoin%20payment%20processors.%20https%3A%2F%2Fgithub.com%2Falexk111%2Fawesome-bitcoin-payment-processors%20%23bitcoin)
-- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/alexk111/awesome-bitcoin-payment-processors)
-- [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//github.com/alexk111/awesome-bitcoin-payment-processors&title=List%20of%20awesome%20bitcoin%20payment%20processors&summary=&source=)
+Thank you for your support! 🙌
 
 ## License
 
