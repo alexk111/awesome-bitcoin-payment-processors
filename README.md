@@ -82,9 +82,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/8/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/8/profile)
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/9/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/9/profile)
 
-[[Donate](https://mynode.alexkaul.com/gh-donate)]
-
-Thank you for your support! 🙌
+[[Donate](https://mynode.alexkaul.com/gh-donate)] Thank you for your support! 🙌
 
 ## License
 
