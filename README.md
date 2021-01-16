@@ -6,7 +6,7 @@
 
 A curated list of awesome Bitcoin payment processors enabling merchants, businesses and nonprofits to accept Bitcoin payments.
 
-## Why are they awesome?
+Why are they awesome?
 
 1. They are either immune to financial censorship or they don't practice it.
 2. They accept Bitcoin via native Bitcoin addresses and don't require wallets to use the [controversial payment protocol](https://blog.samouraiwallet.com/post/169222582782/bitpay-qr-codes-are-no-longer-valid-important).
