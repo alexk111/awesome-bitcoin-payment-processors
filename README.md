@@ -14,14 +14,13 @@ Why are they awesome?
 
 ## Contents
 
-- [Self-Hosted Payment Processors](#self-hosted-payment-processors)
-- [Hosted Payment Processors](#hosted-payment-processors)
+- [Self-Hosted Bitcoin Payment Processors](#self-hosted-bitcoin-payment-processors)
+- [Hosted Bitcoin Payment Processors](#hosted-bitcoin-payment-processors)
   - [Non-Custodial](#non-custodial)
   - [Custodial](#custodial)
-- [Merchant Stories](#merchant-stories)
 - [Backers 💝](#backers-)
 
-## Self-Hosted Payment Processors
+## Self-Hosted Bitcoin Payment Processors
 
 Self-Hosted payment processors run on your server and provide you with a full control over the entire payment process and funds. There's no third-party involvement - that significantly increases the censorship-resistance, privacy, and security for you and your customers. 
 
@@ -33,7 +32,7 @@ Self-Hosted payment processors run on your server and provide you with a full co
 | [BitcartCC](https://bitcartcc.com) | No fees | Yes | Yes | No | 1 GB RAM, 10 GB Storage, Docker |
 | [LnMe](https://github.com/bumi/lnme) | No fees | Yes | Yes | No | LND node |
 
-## Hosted Payment Processors
+## Hosted Bitcoin Payment Processors
 
 Hosted payment processors run on someone else's server. This simplifies the initial setup process, but reduces the amount of control you have over the payment process.
 
@@ -60,16 +59,6 @@ Hosted payment processors run on someone else's server. This simplifies the init
 | [Coinremitter](https://coinremitter.com/) | 0.23% | No | No | No | No |
 | [Utrust](https://utrust.com/) | 1% | No | No | Yes | Require certain documents. |
 | [NOWPayments](https://nowpayments.io/) | ≤0.5% | No | No | No | KYC/AML procedure applied to certain clients, wallet addresses and select assets. |
-
-## Merchant Stories
-
-- [BTCPay Server] [Blockstream: We're now accepting on-chain #Bitcoin payments](https://www.facebook.com/1052484058287964)
-- [BTCPay Server] [CheapAir: Update on Our Search for a New Bitcoin Payment Processor](https://www.cheapair.com/blog/update-on-our-search-for-a-new-bitcoin-payment-processor/)
-- [BTCPay Server] [Cryptoversity: ORIGINS, A Dramatic Story](https://youtu.be/S0difABxO3g)
-- [BTCPay Server] [Gab Says Bitcoin is The Clear Solution as ‘Free Speech Money’](https://bitcoinist.com/free-speech-money-gab-bitcoin/)
-- [Confirmo (ex-BitcoinPay)] [Trezor: Ever wondered how do we process your TREZOR order?](https://blog.trezor.io/trezor-shipping-process-delivery-dispatch-explained-order-logistics-58e45e25ee8)
-- [Blockonomics] [How a Small Business in the Arctic Circle is Selling to the World](https://hackernoon.com/how-a-small-business-in-the-arctic-circle-is-selling-to-the-world-8dbe8d7f9fc4)
-- [CryptoWoo] [Keys4Coins: Seamless integration of cryptocurrency payments in WooCommerce](https://www.keys4coins.com/cryptowoo-testimonial/)
 
 ## Backers 💝
 
