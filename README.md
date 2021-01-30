@@ -56,7 +56,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 | [GloBee](https://globee.com/) | 1% ($10 min. invoice) | Yes | No | Via [Luno](https://www.luno.com) and [Uphold](https://uphold.com/) | Information about business / website. May require certain documents. |
 | [OpenNode](https://www.opennode.co/) | 1% | Yes | No | Yes | Requires [KYC/KYB documents](https://help.opennode.com/en/articles/3654899-kyc-and-kyb-requirements) |
 | [Strike](https://strike.acinq.co/) | 1% | Only | No | No | For companies, the name of a company and a physical address. |
-| [Coinremitter](https://coinremitter.com/) | 0.23% | No | No | No | No |
+| [Coinremitter](https://coinremitter.com/) | 0.23% + 0.0001 | No | No | No | No |
 | [Utrust](https://utrust.com/) | 1% | No | No | Yes | Require certain documents. |
 | [NOWPayments](https://nowpayments.io/) | ≤0.5% | No | No | No | KYC/AML procedure applied to certain clients, wallet addresses and select assets. |
 
