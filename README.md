@@ -31,7 +31,7 @@ Self-Hosted payment processors run on your server and provide you with a full co
 | [CryptoWoo](https://www.cryptowoo.com/) | $34 - $99 per year | No | Yes | No | PHP 5.6+, Wordpress 4.3+, WooCommerce 3.0+ |
 | [BitcartCC](https://bitcartcc.com) | No fees | Yes | Yes | No | 1 GB RAM, 10 GB Storage, Docker |
 | [LnMe](https://github.com/bumi/lnme) | No fees | Yes | Yes | No | LND node |
-| [BTCPyment](https://github.com/nickfarrow/BTCPyment) | No fees | Yes | Yes | No | Python & a Bitcoin node. Lightning node & Woocommerce optional |
+| [SatSale](https://github.com/nickfarrow/SatSale) | No fees | Yes | Yes | No | A Bitcoin node and Python. Lightning node & Woocommerce optional |
 
 ## Hosted Bitcoin Payment Processors
 
