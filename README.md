@@ -54,6 +54,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 | [Confirmo](https://confirmo.net/) | 0.8% | No | No | Yes | Information about business / website. May require certain documents. |
 | [CoinGate](https://coingate.com/accept-bitcoin) | 1% (merchant) + some [variable service fee](https://support.coingate.com/en/109/why-does-coingate-charge-service-fee) (customer) | Yes | No | Yes | Requires [a lot of information and business documents](https://blog.coingate.com/2019/05/verify-merchant-account-faq), officially translated in english. |
 | [CoinPayments](https://www.coinpayments.net/) | 0.5% | Yes | No | No | On withdrawal may require a number of forms of identification and will require settlement of any outstanding amounts. |
+| [COINQVEST](https://www.coinqvest.com/) | 0.5-1%, [Free to try](https://www.coinqvest.com/en/pricing) | No | No | Yes (USD, EUR, ARS, BRL, NGN) | Requires KYC verification. |
 | [GloBee](https://globee.com/) | 1% ($10 min. invoice) | Yes | No | Via [Luno](https://www.luno.com) and [Uphold](https://uphold.com/) | Information about business / website. May require certain documents. |
 | [OpenNode](https://www.opennode.co/) | 1% | Yes | No | Yes | Requires [KYC/KYB documents](https://help.opennode.com/en/articles/3654899-kyc-and-kyb-requirements) |
 | [Strike](https://strike.acinq.co/) | 1% | Only | No | No | For companies, the name of a company and a physical address. |
