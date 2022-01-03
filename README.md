@@ -32,6 +32,7 @@ Self-Hosted payment processors run on your server and provide you with a full co
 | [BitcartCC](https://bitcartcc.com) | No fees | Yes | Yes | No | 1 GB RAM, 10 GB Storage, Docker |
 | [LnMe](https://github.com/bumi/lnme) | No fees | Yes | Yes | No | LND node |
 | [SatSale](https://github.com/nickfarrow/SatSale) | No fees | Yes | Yes | No | A Bitcoin node and Python. Lightning node & Woocommerce optional |
+| [CypherpunkPay](https://cypherpunkpay.org/) | No fees | No | Yes | No | Linux (1GB RAM) |
 
 ## Hosted Bitcoin Payment Processors
 
