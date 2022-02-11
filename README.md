@@ -62,6 +62,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 | [Coinremitter](https://coinremitter.com/) | 0.23% + 0.0001 | No | No | No | No |
 | [Utrust](https://utrust.com/) | 1% | No | No | Yes | Require certain documents. |
 | [NOWPayments](https://nowpayments.io/) | ≤0.5% | No | No | No | KYC/AML procedure applied to certain clients, wallet addresses and select assets. |
+| [COINQVEST](https://www.coinqvest.com/) | 0.5-1%, [Free to try](https://www.coinqvest.com/en/pricing) | No | No | Yes (USD, EUR, ARS, BRL, NGN) | Requires KYC verification. |
 
 ## Backers 💝
 
