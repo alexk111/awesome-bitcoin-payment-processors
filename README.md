@@ -31,7 +31,8 @@ Self-Hosted payment processors run on your server and provide you with a full co
 | [CryptoWoo](https://www.cryptowoo.com/) | $34 - $99 per year | No | Yes | No | PHP 5.6+, Wordpress 4.3+, WooCommerce 3.0+ |
 | [BitcartCC](https://bitcartcc.com) | No fees | Yes | Yes | No | 1 GB RAM, 10 GB Storage, Docker |
 | [LnMe](https://github.com/bumi/lnme) | No fees | Yes | Yes | No | LND node |
-| [SatSale](https://github.com/nickfarrow/SatSale) | No fees | Yes | Yes | No | A Bitcoin node and Python. Lightning node & Woocommerce optional |
+| [SatSale](https://github.com/nickfarrow/SatSale) | No fees | Yes | Yes | Weakhands: [swap to USDT on Liquid](https://github.com/nickfarrow/SatSale/blob/master/config.toml#L82), no-KYC | A Bitcoin node and Python. Lightning node & Woocommerce optional |
+| [CypherpunkPay](https://cypherpunkpay.org/) | No fees | No | Yes | No | Linux (1GB RAM) |
 
 ## Hosted Bitcoin Payment Processors
 
@@ -44,6 +45,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 | [Blockonomics](https://www.blockonomics.co/merchants) | 1% | No | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | No |
 | [Bittery.io](https://bittery.io/) | No fees | Yes | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) and [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/) | No |
 | [Payscrypt](https://payscrypt.com/) | No fees | No | Yes | No | No |
+| [Bitrequest](https://bitrequest.io/) | No fees | No | Yes | No | No |
 
 ### Custodial
 
@@ -51,7 +53,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 
 | Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
-| [Confirmo](https://confirmo.net/) | 0.8% | No | No | Yes | Information about business / website. May require certain documents. |
+| [Confirmo](https://confirmo.net/) | 0.8% | Yes | No | Yes | Information about business / website. May require certain documents. |
 | [CoinGate](https://coingate.com/accept-bitcoin) | 1% (merchant) + some [variable service fee](https://support.coingate.com/en/109/why-does-coingate-charge-service-fee) (customer) | Yes | No | Yes | Requires [a lot of information and business documents](https://blog.coingate.com/2019/05/verify-merchant-account-faq), officially translated in english. |
 | [CoinPayments](https://www.coinpayments.net/) | 0.5% | Yes | No | No | On withdrawal may require a number of forms of identification and will require settlement of any outstanding amounts. |
 | [COINQVEST](https://www.coinqvest.com/) | 0.5-1%, [Free to try](https://www.coinqvest.com/en/pricing) | No | No | Yes (USD, EUR, ARS, BRL, NGN) | Requires KYC verification. |
