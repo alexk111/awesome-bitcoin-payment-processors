@@ -44,7 +44,6 @@ Hosted payment processors run on someone else's server. This simplifies the init
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
 | [Blockonomics](https://www.blockonomics.co/merchants) | 1% | No | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | No |
 | [Bittery.io](https://bittery.io/) | No fees | Yes | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) and [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/) | No |
-| [Payscrypt](https://payscrypt.com/) | No fees | No | Yes | No | No |
 | [Bitrequest](https://bitrequest.io/) | No fees | No | Yes | No | No |
 
 ### Custodial
@@ -53,6 +52,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 
 | Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
+| [Apirone](https://apirone.com/) | fixed fee, free incoming tx | No | Soon | No | Merchant wallet. Forwarding payments. CMS Plugins. Donation Widget. Rest API. |
 | [Confirmo](https://confirmo.net/) | 0.8% | Yes | No | Yes | Information about business / website. May require certain documents. |
 | [CoinGate](https://coingate.com/accept-bitcoin) | 1% (merchant) + some [variable service fee](https://support.coingate.com/en/109/why-does-coingate-charge-service-fee) (customer) | Yes | No | Yes | Requires [a lot of information and business documents](https://blog.coingate.com/2019/05/verify-merchant-account-faq), officially translated in english. |
 | [CoinPayments](https://www.coinpayments.net/) | 0.5% | Yes | No | No | On withdrawal may require a number of forms of identification and will require settlement of any outstanding amounts. |
