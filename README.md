@@ -33,6 +33,7 @@ Self-Hosted payment processors run on your server and provide you with a full co
 | [LnMe](https://github.com/bumi/lnme) | No fees | Yes | Yes | No | LND node |
 | [SatSale](https://github.com/nickfarrow/SatSale) | No fees | Yes | Yes | Weakhands: [swap to USDT on Liquid](https://github.com/nickfarrow/SatSale/blob/master/config.toml#L82), no-KYC | A Bitcoin node and Python. Lightning node & Woocommerce optional |
 | [CypherpunkPay](https://cypherpunkpay.org/) | No fees | No | Yes | No | Linux (1GB RAM) |
+| [Keagate](https://github.com/dilan-dio4/Keagate) | No fees | No | Yes | No | 1 GB RAM, Unix |
 
 ## Hosted Bitcoin Payment Processors
 
