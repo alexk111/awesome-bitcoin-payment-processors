@@ -59,7 +59,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 | [CoinGate](https://coingate.com/accept) | 1% (merchant) + some [variable service fee](https://support.coingate.com/en/109/why-does-coingate-charge-service-fee) (customer) | Yes | No | Yes | Requires [a lot of information and business documents](https://blog.coingate.com/2019/05/verify-merchant-account-faq), officially translated in english. |
 | [CoinPayments](https://www.coinpayments.net/) | 0.5% | Yes | No | No | On withdrawal may require a number of forms of identification and will require settlement of any outstanding amounts. |
 | [OpenNode](https://www.opennode.co/) | 1% | Yes | No | Yes | Requires [KYC/KYB documents](https://help.opennode.com/en/articles/3654899-kyc-and-kyb-requirements) |
-| [Strike](https://strike.acinq.co/) | 1% | Only | No | No | For companies, the name of a company and a physical address. |
+| [Strike](https://strike.me/business/) | 1% | Only | No | No | Requires [basic business info, documents, identity verifications of owners and operators](https://strike.me/faq/how-do-i-sign-up-for-a-strike-business-account/). |
 | [Coinremitter](https://coinremitter.com/) | 0.23% + 0.0001 | No | No | No | No |
 | [Utrust](https://utrust.com/) | 1% | No | No | Yes | Require certain documents. |
 | [NOWPayments](https://nowpayments.io/) | ≤0.5% | No | No | No | KYC/AML procedure applied to certain clients, wallet addresses and select assets. |
