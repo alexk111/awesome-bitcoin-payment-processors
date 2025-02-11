@@ -6,12 +6,6 @@
 
 A curated list of awesome Bitcoin payment processors enabling merchants, businesses and nonprofits to accept Bitcoin payments.
 
-Why are they awesome?
-
-1. They are either immune to financial censorship or they don't practice it.
-2. They accept Bitcoin via native Bitcoin addresses and don't require wallets to use the [controversial payment protocol](https://blog.samouraiwallet.com/post/169222582782/bitpay-qr-codes-are-no-longer-valid-important).
-3. They don't [block payments by IPs/locations](https://twitter.com/alex_kaul/status/1090211252331208705).
-
 ## Contents
 
 - [Self-Hosted Bitcoin Payment Processors](#self-hosted-bitcoin-payment-processors)
@@ -41,6 +35,8 @@ Hosted payment processors run on someone else's server. This simplifies the init
 
 ### Non-Custodial
 
+These processors use your wallets for receiving payments.
+
 | Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
 | [Blockonomics](https://www.blockonomics.co/merchants) | 1% | No | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | No |
@@ -51,7 +47,11 @@ Hosted payment processors run on someone else's server. This simplifies the init
 
 ### Custodial
 
-⚠ The following processors use their own wallets for receiving payments. They not only collect data about payments, they have full control over the funds.
+The following processors use their own wallets, not yours, for receiving payments.
+
+⚠ They not only collect data about payments, they have full control over the funds. There are many risks associated with custodians, which might end up with lost/locked funds.
+
+⚠ Most of them have KYC/AML requirements, which poses a serious threat to your and your customers' privacy.
 
 | Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
