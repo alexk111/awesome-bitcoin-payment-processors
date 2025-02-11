@@ -49,6 +49,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 | [Payscrypt](https://payscrypt.com/) | No fees | No | Yes | No | No |
 | [Bitrequest](https://bitrequest.io/) | No fees | Yes | Yes | No | No |
 | [Zaprite](https://zaprite.com/) | $25 per month | Yes | Yes | No | No |
+| [Paymento](https://paymento.io/) | 0.5% | No | Yes | No | No |
 
 ### Custodial
 
