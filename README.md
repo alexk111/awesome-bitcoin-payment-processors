@@ -69,6 +69,7 @@ The following processors use their own wallets, not yours, for receiving payment
 | [Speed](https://tryspeed.com/) | 1% | Yes | No | No | No |
 | [Sheepy](https://www.sheepy.com/) | 1% + $0.25 | No | No | Yes | Requires [KYB documents](https://www.sheepy.com/faq/what-documents-are-required-to-verify-my-merchant-account) |
 | [ALFAcoins](https://www.alfacoins.com/) | 0.99% | No | No | No | Requires KYB documents |
+| [Apirone](https://apirone.com/) | 1% | No | No | No | No |
 
 ## Backers 💝
 
