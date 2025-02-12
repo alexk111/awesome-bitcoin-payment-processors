@@ -51,7 +51,9 @@ The following processors use their own wallets, not yours, for receiving payment
 
 ⚠ They not only collect data about payments, they have full control over the funds. There are many risks associated with custodians, which might end up with lost/locked funds.
 
-⚠ Most of them have KYC/AML requirements, which poses a serious threat to your and your customers' privacy.
+⚠ Most of them have KYB/KYC/AML requirements, which poses a serious threat to your and your customers' privacy.
+
+⚠ They have country-based restrictions for merchants and merchants' customers.
 
 | Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
