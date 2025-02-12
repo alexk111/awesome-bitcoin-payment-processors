@@ -65,6 +65,8 @@ The following processors use their own wallets, not yours, for receiving payment
 | [NOWPayments](https://nowpayments.io/) | ≤0.5% | No | No | No | KYC/AML procedure applied to certain clients, wallet addresses and select assets. |
 | [ElenPAY](https://elenpay.tech) | ≤1% | Yes | Yes | No (Soon) | Low KYC |
 | [Speed](https://tryspeed.com/) | 1% | Yes | No | No | No |
+| [Sheepy](https://www.sheepy.com/) | 1% + $0.25 | No | No | Yes | Requires [KYB documents](https://www.sheepy.com/faq/what-documents-are-required-to-verify-my-merchant-account) |
+| [ALFAcoins](https://www.alfacoins.com/) | 0.99% | No | No | No | Requires KYB documents |
 
 ## Backers 💝
 
