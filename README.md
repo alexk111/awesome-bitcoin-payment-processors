@@ -61,6 +61,7 @@ The following processors use their own wallets, not yours, for receiving payment
 | [Confirmo](https://confirmo.net/) | 1.3% (0.8% invoicing + 0.5% payouts) | Yes | No | Yes | Information about business / website. May require certain documents. |
 | [CoinGate](https://coingate.com/accept) | 1% (merchant) + some [variable service fee](https://support.coingate.com/en/109/why-does-coingate-charge-service-fee) (customer) | Yes | No | Yes | Requires [a lot of information and business documents](https://blog.coingate.com/2019/05/verify-merchant-account-faq), officially translated in english. |
 | [CoinPayments](https://www.coinpayments.net/) | 0.5% | Yes | No | No | On withdrawal may require a number of forms of identification and will require settlement of any outstanding amounts. |
+| [OxaPay](https://www.oxapay.com/) | 0.4%–1.5%  | No | No (supports Auto-Withdraw) | No | No KYC/KYB, no country restrictions |
 | [OpenNode](https://www.opennode.co/) | 1% | Yes | No | Yes | Requires [KYC/KYB documents](https://help.opennode.com/en/articles/3654899-kyc-and-kyb-requirements) |
 | [Strike](https://strike.me/business/) | 1% | Only | No | No | Requires [basic business info, documents, identity verifications of owners and operators](https://strike.me/faq/how-do-i-sign-up-for-a-strike-business-account/). |
 | [Coinremitter](https://coinremitter.com/) | 0.23% + 0.0001 | No | No | No | No |
@@ -71,6 +72,8 @@ The following processors use their own wallets, not yours, for receiving payment
 | [Sheepy](https://www.sheepy.com/) | 1% + $0.25 | No | No | Yes | Requires [KYB documents](https://www.sheepy.com/faq/what-documents-are-required-to-verify-my-merchant-account) |
 | [ALFAcoins](https://www.alfacoins.com/) | 0.99% | No | No | No | Requires KYB documents |
 | [Apirone](https://apirone.com/) | 1% | No | No | No | No |
+
+
 
 ## Backers 💝
 
