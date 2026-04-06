@@ -6,6 +6,7 @@
 
 A curated list of awesome Bitcoin payment processors enabling merchants, businesses and nonprofits to accept Bitcoin payments.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Bitcoin payment workflow orchestration, automated crypto payment processing management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Self-Hosted Bitcoin Payment Processors](#self-hosted-bitcoin-payment-processors)
