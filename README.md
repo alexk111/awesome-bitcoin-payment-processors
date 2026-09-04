@@ -45,7 +45,7 @@ These processors use your wallets for receiving payments.
 | [Zaprite](https://zaprite.com/) | $25 per month | Yes | Yes | No | No |
 | [Paymento](https://paymento.io/) | 0.5% | No | Yes | No | No |
 | [Flash](https://paywithflash.com/) | 1.5% | Yes | Yes | No | No |
-| [send21](https://send21.io) | [0.49%–0.01%, capped $100](https://send21.io/pricing) | No | Yes | No | No |
+| [send21](https://send21.io) | tiered fee schedule, see [pricing](https://send21.io/pricing) | No | Yes | No | wallet that can pay / PSBT wallets for multi-output drafts |
 
 ### Custodial
 
