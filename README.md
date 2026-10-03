@@ -71,6 +71,7 @@ The following processors use their own wallets, not yours, for receiving payment
 | [Sheepy](https://www.sheepy.com/) | 1% + $0.25 | No | No | Yes | Requires [KYB documents](https://www.sheepy.com/faq/what-documents-are-required-to-verify-my-merchant-account) |
 | [ALFAcoins](https://www.alfacoins.com/) | 0.99% | No | No | No | Requires KYB documents |
 | [Apirone](https://apirone.com/) | 1% | No | No | No | No |
+| [CryptumPay](https://www.cryptumpay.com/) | 1% (0.5% at higher volumes) | No | No | No | Identity verification and project review. |
 
 ## Backers 💝
 
