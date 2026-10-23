@@ -28,6 +28,7 @@ Self-Hosted payment processors run on your server and provide you with a full co
 | [SatSale](https://github.com/SatSale/SatSale) | No fees | Yes | Yes | Weakhands: [swap to USDT on Liquid](https://github.com/SatSale/SatSale/blob/471c8c03bbc269df1f322f6484b6e7a7364e5b34/config.toml#L101), no-KYC | Python. Bitcoin node, Lightning node & WooCommerce optional. |
 | [Keagate](https://github.com/dilan-dio4/Keagate) | No fees | No | Yes | No | 1 GB RAM, Unix |
 | [LNURL Daemon](https://github.com/yanascz/lnurld) | No fees | Yes | Yes | No | LND node |
+| [BareBits](https://github.com/BareBits/cashupayserver) | 1% | Yes | Yes | Yes w/ Strike account | Any web hosting |
 
 ## Hosted Bitcoin Payment Processors
 
