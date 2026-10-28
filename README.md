@@ -45,6 +45,7 @@ These processors use your wallets for receiving payments.
 | [Zaprite](https://zaprite.com/) | $25 per month | Yes | Yes | No | No |
 | [Paymento](https://paymento.io/) | 0.5% | No | Yes | No | No |
 | [Flash](https://paywithflash.com/) | 1.5% | Yes | Yes | No | No |
+| [Manatee](https://manatee-api.io/) | Freemium | No | Yes | No | Account and wallet setup |
 
 ### Custodial
 
