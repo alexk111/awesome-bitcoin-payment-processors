@@ -28,6 +28,7 @@ Self-Hosted payment processors run on your server and provide you with a full co
 | [SatSale](https://github.com/SatSale/SatSale) | No fees | Yes | Yes | Weakhands: [swap to USDT on Liquid](https://github.com/SatSale/SatSale/blob/471c8c03bbc269df1f322f6484b6e7a7364e5b34/config.toml#L101), no-KYC | Python. Bitcoin node, Lightning node & WooCommerce optional. |
 | [Keagate](https://github.com/dilan-dio4/Keagate) | No fees | No | Yes | No | 1 GB RAM, Unix |
 | [LNURL Daemon](https://github.com/yanascz/lnurld) | No fees | Yes | Yes | No | LND node |
+| [OpenReceive](https://openreceive.org/) | No fees | Only | Yes | No | A Node, Python, PHP or Ruby app, or a WooCommerce, Easy Digital Downloads, Medusa, Vendure, PrestaShop, Odoo, Paymenter or FOSSBilling store; a Lightning wallet with a receive-only Nostr Wallet Connect (NWC) connection |
 
 ## Hosted Bitcoin Payment Processors
 
